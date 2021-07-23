@@ -22,7 +22,7 @@
 
 ### 💜 Heroku
 
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](sourcery/revert-1-sourcery/Master/tree/master)
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://GitHub.com/SatrugnaFD/Music-kz/tree/master)
 
 Get pyrogram (p)  `SESSION` from here:
 [![Run on Repl.it](https://repl.it/badge/github/SpEcHiDe/GenerateStringSession)](https://repl.it/@mrismanaziz/stringenSession?lite=1&outputonly=1)
