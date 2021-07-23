@@ -24,8 +24,7 @@
     },
     "BOT_USERNAME": {
       "description": "Username bot Anda tanpa @",
-      "required": true 
-      "value": "MusicKZRobot"
+      "required": true
     },
     "BOT_NAME": {
       "description": "Nama Bot MusicPlayer Anda.",
