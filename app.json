@@ -30,7 +30,6 @@
     "BOT_NAME": {
       "description": "Nama Bot MusicPlayer Anda.",
       "required": false,
-      "value": "ᴍᴋᴢ ᴍᴜsɪᴄ ʙᴏᴛ"
     },
     "SUPPORT_GROUP": {
       "description": "Grup dukungan MusicPlayer Anda tanpa @ [skip ini jika Anda tidak punya]",
@@ -62,8 +61,7 @@
     },    
     "API_ID": {
       "description": "Masukan APP ID Silahkan Ambil dari my.telegram.org/apps atau t.me/scrapmanbot",
-      "required": true 
-      "value": "6370934"
+      "required": true
     },
     "PMPERMIT": {
       "description": "Ubah Ke TURN OFF untuk mematikan",
