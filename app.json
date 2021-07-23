@@ -45,7 +45,6 @@
     "ASSISTANT_NAME": {
       "description": "Username Telegram asisten MusicPlayer Anda tanpa @",
       "required": true 
-      "value": "MKZMusicAssistant"
     },
     "ARQ_API_KEY": {
       "description": "Ambil api ARQ dari bot telegram » t.me/ARQRobot atau @ARQRobot",
@@ -73,8 +72,7 @@
     },    
     "API_HASH": {
       "description": "Masukan API HASH Silahkan Ambil dari my.telegram.org/apps atau t.me/scrapmanbot",
-      "required": true 
-      "value": "540a5e516b1c554a89503b19a341a4dc"
+      "required": true
     },
     "SUDO_USERS": {
       "description": "Daftar User ID Telegram pengguna dihitung sebagai admin di semua tempat (pemisah menggunakan space)",
