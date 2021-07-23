@@ -21,7 +21,6 @@
     "BOT_TOKEN": {
       "description": "Masukan Bot Token dari @BotFather",
       "required": true 
-      "value": "1765903362:AAGeIZI1_v24d9wEQAYyQhTch4EsWz2NEUg"
     },
     "BOT_USERNAME": {
       "description": "Username bot Anda tanpa @",
@@ -50,8 +49,7 @@
     },
     "ARQ_API_KEY": {
       "description": "Ambil api ARQ dari bot telegram » t.me/ARQRobot atau @ARQRobot",
-      "required": true,
-      "value": "1BVtsOKUBu7AZKvYNQy_ir5w_KIiLEwpAwTceFOcqnzpmOqgy4vEHJvgjjkouNTqK1PG1NiHRsJL398fAixtktk18yyUf-bC7jwX3oabwf3EJKh5NEJ4jNVSqSUFPLDmMc26-_Dngpou2IXN0_CdAireDCrhalzDSBwJx6H3CNfMyfM2wyC5J_YJjbZG-NxUWxjb2rr4U7q2ojRBAbt4GrHJg3JIh-kt-VB-P4zEKP1f3xncDUmKPVasrxrBvOtyE-4Pk7h5rWUHxEwJTcivjaKg3l6TDf-F_z9WVaKqO3ghxxMc4jLixp7ZCvkxcpXyXOmLDzuk4LcPeak2h3INabSkEFmGlX6A="
+      "required": true
     },    
     "BG_IMAGE": {
       "description": "Custom Background Play Musik Gunakan Foto yang Transparant format .png / .jpg",
