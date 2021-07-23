@@ -16,8 +16,7 @@
   "env": {
     "SESSION_NAME": {
       "description": "Masukan String Session Pyrogram (P) untuk assistant yang naik ke VCG",
-      "required": true 
-      "value":"1BVtsOKUBu7AZKvYNQy_ir5w_KIiLEwpAwTceFOcqnzpmOqgy4vEHJvgjjkouNTqK1PG1NiHRsJL398fAixtktk18yyUf-bC7jwX3oabwf3EJKh5NEJ4jNVSqSUFPLDmMc26-_Dngpou2IXN0_CdAireDCrhalzDSBwJx6H3CNfMyfM2wyC5J_YJjbZG-NxUWxjb2rr4U7q2ojRBAbt4GrHJg3JIh-kt-VB-P4zEKP1f3xncDUmKPVasrxrBvOtyE-4Pk7h5rWUHxEwJTcivjaKg3l6TDf-F_z9WVaKqO3ghxxMc4jLixp7ZCvkxcpXyXOmLDzuk4LcPeak2h3INabSkEFmGlX6A="
+      "required": true
     },
     "BOT_TOKEN": {
       "description": "Masukan Bot Token dari @BotFather",
