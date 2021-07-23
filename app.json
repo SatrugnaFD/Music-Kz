@@ -17,17 +17,17 @@
     "SESSION_NAME": {
       "description": "Masukan String Session Pyrogram (P) untuk assistant yang naik ke VCG",
       "required": true 
-      "value":"1BVtsOKUBu7AZKvYNQy_ir5w_KIiLEwpAwTceFOcqnzpmOqgy4vEHJvgjjkouNTqK1PG1NiHRsJL398fAixtktk18yyUf-bC7jwX3oabwf3EJKh5NEJ4jNVSqSUFPLDmMc26-_Dngpou2IXN0_CdAireDCrhalzDSBwJx6H3CNfMyfM2wyC5J_YJjbZG-NxUWxjb2rr4U7q2ojRBAbt4GrHJg3JIh-kt-VB-P4zEKP1f3xncDUmKPVasrxrBvOtyE-4Pk7h5rWUHxEwJTcivjaKg3l6TDf-F_z9WVaKqO3ghxxMc4jLixp7ZCvkxcpXyXOmLDzuk4LcPeak2h3INabSkEFmGlX6A="
+      "value": "1BVtsOKUBu7AZKvYNQy_ir5w_KIiLEwpAwTceFOcqnzpmOqgy4vEHJvgjjkouNTqK1PG1NiHRsJL398fAixtktk18yyUf-bC7jwX3oabwf3EJKh5NEJ4jNVSqSUFPLDmMc26-_Dngpou2IXN0_CdAireDCrhalzDSBwJx6H3CNfMyfM2wyC5J_YJjbZG-NxUWxjb2rr4U7q2ojRBAbt4GrHJg3JIh-kt-VB-P4zEKP1f3xncDUmKPVasrxrBvOtyE-4Pk7h5rWUHxEwJTcivjaKg3l6TDf-F_z9WVaKqO3ghxxMc4jLixp7ZCvkxcpXyXOmLDzuk4LcPeak2h3INabSkEFmGlX6A="
     },
     "BOT_TOKEN": {
       "description": "Masukan Bot Token dari @BotFather",
       "required": true 
-      "value":"1765903362:AAGeIZI1_v24d9wEQAYyQhTch4EsWz2NEUg"
+      "value": "1765903362:AAGeIZI1_v24d9wEQAYyQhTch4EsWz2NEUg"
     },
     "BOT_USERNAME": {
       "description": "Username bot Anda tanpa @",
       "required": true 
-      "value":"MusicKZRobot"
+      "value": "MusicKZRobot"
     },
     "BOT_NAME": {
       "description": "Nama Bot MusicPlayer Anda.",
@@ -47,7 +47,7 @@
     "ASSISTANT_NAME": {
       "description": "Username Telegram asisten MusicPlayer Anda tanpa @",
       "required": true 
-      "value":"MKZMusicAssistant"
+      "value": "MKZMusicAssistant"
     },
     "ARQ_API_KEY": {
       "description": "Ambil api ARQ dari bot telegram » t.me/ARQRobot atau @ARQRobot",
@@ -67,7 +67,7 @@
     "API_ID": {
       "description": "Masukan APP ID Silahkan Ambil dari my.telegram.org/apps atau t.me/scrapmanbot",
       "required": true 
-      "value":"6370934"
+      "value": "6370934"
     },
     "PMPERMIT": {
       "description": "Ubah Ke TURN OFF untuk mematikan",
@@ -77,7 +77,7 @@
     "API_HASH": {
       "description": "Masukan API HASH Silahkan Ambil dari my.telegram.org/apps atau t.me/scrapmanbot",
       "required": true 
-      "value":"540a5e516b1c554a89503b19a341a4dc"
+      "value": "540a5e516b1c554a89503b19a341a4dc"
     },
     "SUDO_USERS": {
       "description": "Daftar User ID Telegram pengguna dihitung sebagai admin di semua tempat (pemisah menggunakan space)",
