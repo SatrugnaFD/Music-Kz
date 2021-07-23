@@ -69,20 +69,3 @@ Don't edit this part
 
 #### Special Credits
 - [Rojserbest](http://github.com/rojserbes): Callsmusic Developer
-
-This bot is based on the original work done by [Rojserbest](http://github.com/rojserbest). Without his hardwork Music Man won't exist. Music-Man is a modified version of [Callsmusic](https://github.com/callsmusic/callsmusic)
-
-#### Contribtors
-- [Risman](https://github.com/mrismanaziz)
-- [InukaASiTH](https://github.com/InukaAsith): Dev
-- [Technical-Hunter](https://github.com/Technical-Hunter): Dev
-- [Rojserbest](http://github.com/rojserbest): Dev
-- [Wrench](https://github.com/EverythingSuckz/): Dev
-- [Bemro](https://github.com/bemroofficial): Dev
-- [QueenArzoo](https://github.com/QueenArzoo): Dev
-- [lucifeermorningstar](https://github.com/lucifeermorningstar): Dev
-- [Hamker Cat](https://github.com/thehamkercat/)
-- [Anjana-Ma](https://github.com/Anjana-Ma): 
-- [ImJanindu](https://github.com/ImJanindu): 
-- [MARSHALX](https://github.com/MarshalX): TgCalls
-- [Original Repo owners](https://github.com/CallsMusic/CallsMusic)
