@@ -1,8 +1,8 @@
 <h1 align="centre">🎵 BOT MUSIC MAN 🎵</h1>
 
 ### A bot that can play music on Telegram Group and Channel Voice Chats
-#### POWERED BY [MARSHALX TGCALLS](https://github.com/MarshalX/tgcalls)
-### Available on telegram as [@Musikmanbot](https://t.me/musikmanbot)
+#### POWERED BY [Stevan](https://github.com/SatrugnaFD/master)
+### Available on telegram as [@MusicKz](https://t.me/MusicKZRobot)
 
 <h2> Features 🔥 </h2>
 
