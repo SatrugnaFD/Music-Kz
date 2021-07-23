@@ -1,4 +1,4 @@
-<h1 align="centre">🎵 BOT MUSIC MAN 🎵</h1>
+<h1 align="centre">BOT MUSIC KZ</h1>
 
 ### A bot that can play music on Telegram Group and Channel Voice Chats
 #### POWERED BY [Stevan](https://github.com/SatrugnaFD/master)
